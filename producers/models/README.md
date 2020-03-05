@@ -1,1 +1,1 @@
-Create stations, weather and tuirnstile producer models
+Create station, weather and tuirnstile producer models
