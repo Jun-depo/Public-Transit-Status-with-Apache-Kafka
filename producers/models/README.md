@@ -1,1 +1,1 @@
-Create producer models
+Create stations, weather and tuirnstile producer models
