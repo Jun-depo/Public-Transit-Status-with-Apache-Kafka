@@ -1,15 +1,11 @@
 # Public Transit Status with Apache Kafka
 
-In this project, you will construct a streaming event pipeline around Apache Kafka and its ecosystem. Using public data from the [Chicago Transit Authority](https://www.transitchicago.com/data/) we will construct an event pipeline around Kafka that allows us to simulate and display the status of train lines in real time.
-
-When the project is complete, you will be able to monitor a website to watch trains move from station to station.
+Using public data from the [Chicago Transit Authority](https://www.transitchicago.com/data/), we builds a streaming event pipeline via Apache Kafka and its ecosystem to simulate and display the status of train lines in real time, that allows us to monitor trains move from station to station through a website interface.
 
 ![Final User Interface](ui.png)
 
 
 ## Prerequisites
-
-The following are required to complete this project:
 
 * Docker
 * Python 3.7
@@ -17,9 +13,9 @@ The following are required to complete this project:
 
 ## Description
 
-The Chicago Transit Authority (CTA) has asked us to develop a dashboard displaying system status for its commuters. We have decided to use Kafka and ecosystem tools like REST Proxy and Kafka Connect to accomplish this task.
+The Chicago Transit Authority (CTA) wants to develop a dashboard displaying system status for its commuters. We have decided to use Kafka and ecosystem tools like REST Proxy and Kafka Connect to accomplish this task.
 
-Our architecture will look like so:
+The architecture of the streaming system is illustrated as the following:
 
 ![Project Architecture](diagram.png)
 
