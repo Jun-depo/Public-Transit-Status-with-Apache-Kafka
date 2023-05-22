@@ -4,6 +4,8 @@ Using public data from the [Chicago Transit Authority](https://www.transitchicag
 
 ![Final User Interface](ui.png)
 
+Accepted dependentabot pull request "Bump requests from 2.22.0 to 2.31.0 in /producers".  Haven't test it after the merge of the pull request. 
+
 
 ## Prerequisites
 
